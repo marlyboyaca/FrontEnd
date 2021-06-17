@@ -1,0 +1,43 @@
+header
+{
+    background: rgb(223, 223, 221);
+    text-align: center;
+}
+header img{
+    width: 95px;
+    height: 115px;
+}
+h1{
+    margin-top: 0px;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(139, 135, 130);
+    text-align: center; 
+    color:rgb(7, 7, 63);
+}
+h2{
+    background-color: rgb(139, 135, 130);  
+    background-position: center;  
+    text-align: center;
+    color:rgb(7, 7, 63);
+}
+footer{
+    color: mintcream;
+    background-color: rgb(7, 7, 63);
+    text-align: center;
+}
+section{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+span{
+    font-weight: bold;
+}
+
+li ul{
+    display: inline-table;
+    padding-left: 2pt;
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
